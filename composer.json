@@ -1,0 +1,10 @@
+{
+  "name": "cernbox/cernboxauth",
+  "type": "project",
+  "description": "Application for CERNBox to use JWT tokens for authentication across services",
+  "license": "AGPL-3.0",
+  "homepage": "https://github.com/cernbox/cernboxauth",
+  "require": {
+    "firebase/php-jwt": "^5.0"
+  }
+}

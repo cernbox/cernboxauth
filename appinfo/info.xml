@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+    <id>cernboxauth</id>
+    <name>Cern Box Auth</name>
+    <description>CERNBox Auth for JWT Authentication across CERNBox services</description>
+    <licence>AGPL</licence>
+    <author>Hugo Gonzalez Labrador (CERN)</author>
+    <version>0.0.1</version>
+    <namespace>CernBoxAuth</namespace>
+    <category>other</category>
+    <dependencies>
+        <owncloud min-version="9.0" />
+    </dependencies>
+</info>
